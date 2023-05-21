@@ -1,9 +1,14 @@
-Hi there! I'm DNin01.
+### 👋 Hi there! I'm DNin01.
 
-I like gaming, coding, creating music, and coming up with ideas.
+I like:
+- 🎮 Playing games
+- 🎨 Creating games, helpful tools, music and more
+- 🤝 Helping out
 
-I like focusing on the small things, sharing my ideas, giving feedback, and helping out.
+My first serious programming began in [Scratch](https://scratch.mit.edu/). I also know a little bit of HTML, CSS and JavaScript.
 
-I have yet to learn the main text-based programming languages like JavaScript and Python, but I know [Scratch](https://scratch.mit.edu/) and I like anything that's "low-code", they can get me attached.
+I joined GitHub because I wanted to contribute to other projects I care about.
 
-I'm on GitHub mainly to contribute to other open-source projects I love, but, imagining product brands and ideas for big things like operating systems, I think I might start a team at some point.
+I think a lot about user experience and try to find ways to make software easier to use.
+
+I also like imagining how my own operating system, computers, devices and apps would work and I want to bring them into the world someday.
