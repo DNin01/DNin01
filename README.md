@@ -1,15 +1,17 @@
-### 👋 Hi there! I'm DNin01.
+### 👋 Hi! I'm DNin01.
 
-I like:
+#### I like:
 - 🎮 Playing games
-- 🎨 Creating games, helpful tools, music and more
-- 🤝 Helping people out
+- 🎨 Being creative
+- 🤝 Helping out
 
-My first serious programming began in [Scratch](https://scratch.mit.edu/). I also know a little bit of HTML, CSS and JavaScript.
+#### How did you get into coding?
+My first serious programming began in [Scratch](https://scratch.mit.edu/). Despite being simplified, it's a pretty powerful tool and I enjoyed creating programs in it, and still use it today.
 
-I joined GitHub because I wanted to contribute to other projects I care about.
+Now, I write HTML, CSS, and JavaScript.
 
-What I do as a developer:
-- ✨ I think a lot about user experience. I try to find ways to make software easier to use and bring attention to small things that make a big difference.
+#### What are you great at?
+- ✨ I think a lot about user experience. Whenever I make software or collaborate, I try to find ways to make things as easy to use as possible and look for small things that make a big difference.
 
-I also like imagining how my own operating system, computers, devices and apps would work and I want to bring them into the world someday.
+#### What do you want to do in the future?
+I dream of starting a company that makes software and tech products, and I'm already imagining what it could be like!
